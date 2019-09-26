@@ -63,7 +63,10 @@ ClassicEditor.defaultConfig = {
 		items: [
 			'heading',
 			'|',
-			'alignment',
+			'alignment:left',
+			'alignment:right',
+			'alignment:center',
+			'alignment:justify',
 			'bold',
 			'italic',
 			'link',
